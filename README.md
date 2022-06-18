@@ -1,0 +1,2 @@
+# try-django1
+A TUTTORIAL VIDEO I AM FOLLOWING
